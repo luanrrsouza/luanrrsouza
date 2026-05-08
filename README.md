@@ -6,13 +6,13 @@
 
 <br/>
 
-<a href="mailto:luanrrdsouza@gmail.com">
+<a href="mailto:luanrrdsouza@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-1976D2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/luanrrsouza/">
+<a href="https://www.linkedin.com/in/luanrrsouza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://wa.me/5583986645644?text=Ol%C3%A1%2C%20vim%20pelo%20seu%20GitHub%21">
+<a href="https://wa.me/5583986645644?text=Ol%C3%A1%2C%20vim%20pelo%20seu%20GitHub%21" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-00BCD4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
